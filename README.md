@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**seyifunmi00/seyifunmi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm Adestars</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Adestars</h1>
+<h3 align="center">A passionate frontend developer from Nigeria India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyifunmi00&label=Profile%20views&color=0e75b6&style=flat" alt="seyifunmi00" /> </p>
 
@@ -32,14 +27,3 @@ Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm Adestars<
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyifunmi00&show_icons=true&locale=en&layout=compact" alt="seyifunmi00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyifunmi00&show_icons=true&locale=en" alt="seyifunmi00" /></p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
